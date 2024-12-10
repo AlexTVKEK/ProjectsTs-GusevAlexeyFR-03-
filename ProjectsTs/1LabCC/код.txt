@@ -1,0 +1,3 @@
+cd D:\AlexGusev\Projects\ProjectsTs\1LabCC
+npx tsc main.ts
+node main.js
